@@ -21,7 +21,7 @@ mypy = "^1.4.1"
 profile = "black"
 
 [tool.mypy]
-files = ["py-boilerplate"]
+files = ["src"]
 strict = true
 
 [build-system]
